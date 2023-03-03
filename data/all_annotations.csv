@@ -1,0 +1,479 @@
+experiment,participantid,itemid,itemtype,strategy_seen,strategy_text,tag_ann1,subtag_ann1,tag_ann2,subtag_ann2,agree_tag,agree_subtag,tag_both,subtag_both
+2,103,33,target simple,2,Because it shows the monster and the images are a monster and a scarf and the other monster is wearing a blue hat which isn’t available,other_reason,misunderstood_instructions,other_reason,misunderstood_instructions,1,1,other_reason,misunderstood_instructions
+4,185,33,target simple,2,wasnt blue as there was no blue colour choice,other_reason,misunderstood_instructions,other_reason,misunderstood_instructions,1,1,other_reason,misunderstood_instructions
+4,213,8,target simple,1,because there is no option choice for the blue circle,other_reason,misunderstood_instructions,other_reason,misunderstood_instructions,1,1,other_reason,misunderstood_instructions
+4,224,25,target complex,1,They couldn't select square. So if they wanted to call red-circle they could have just chosen red.,correct_reasoning,,other_reason,misunderstood_instructions,0,0,other_reason,misunderstood_instructions
+1,32,30,target simple,1,There purple monster has a scarf and this was not a choice available to the participant.,other_reason,misunderstood_instructions,other_reason,misunderstood_instructions,1,1,other_reason,misunderstood_instructions
+2,61,12,target simple,2,Because the purple monster wasnt an option for the previous participant,other_reason,misunderstood_instructions,other_reason,misunderstood_instructions,1,1,other_reason,misunderstood_instructions
+2,91,33,target simple,1,BECAUSE OUT OF THE TWO IMAGES WE HAVE THIS WITH A RED CAP AND FROM THE LIST OF IMAGES WE DON'T HAVE A BLUE CAP SO THAT'S WHY I WENT WITH THE ONE WITH   THE SCARF,unclear,,other_reason,misunderstood_instructions,0,0,other_reason,misunderstood_instructions
+2,93,30,target simple,2,"The previous participant chose a robot so I chose a robot as well, and he/she also had  a scarf to choose from so that is why I chose the robot with the scarf, not that it actually matters.",guess,,other_reason,misunderstood_instructions,0,0,other_reason,misunderstood_instructions
+1,11,57,target complex,2,Again I think the previous participant is encouraging me to choose the unique image as it is impossible to choose between the other two.,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+1,11,36,target simple,1,I think the previous participant is telling me to choose the only image that is different to the message shown.,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+2,115,43,target complex,1,because in this the unique part is the scarf. In others caps are common,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+2,115,33,target simple,2,In this pictures caps are common but scarf is not.,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+3,122,15,target complex,2,Because the blue hat differentiates between the 2 green monsters,unclear,,other_reason,odd_one_out,0,0,other_reason,odd_one_out
+3,135,17,target complex,1,"because there were 2 purple monsters and one robot, so I picked the robot as being odd one out",other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+3,135,40,target simple,2,Because he was the only one not wearing a blue hat,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+3,144,51,target complex,2,"Same creature, only one without red hat",unclear,,other_reason,odd_one_out,0,0,other_reason,odd_one_out
+1,15,7,target complex,1,because it is different than the other 2 wearing the blue hats,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+3,155,43,target complex,2,The creature is the only one who is not wearing a red cap.,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+3,157,24,target complex,2,odd one,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+3,165,2,target complex,2,if the previous participant could only pick 1 thing which is a red cap and the 3rd monster isn't wearing a cap. its a way of disguising the 3rd monster,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+3,165,40,target simple,1,if I could only choose 1 and the other 2 had blue caps then the previous participant must have meant me to pick the one without a blue cap,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+4,190,17,target complex,1,"There's no way to actually know because there are two circles, so I just picked the circle that was a different color as it is unique.",guess,,other_reason,odd_one_out,0,0,other_reason,odd_one_out
+4,192,51,target complex,1,IT IS A CIRCLE BUT ONLY ONE THAT IS RED,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+1,25,51,target complex,2,Pink creature and only blue hat,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+1,33,63,target complex,2,it is the only one with different colour of cap,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+1,42,15,target complex,2,Had a different colour hat,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+1,45,2,target complex,2,He picked a hat instead of figures and this was the only one that was different and without a hat.,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+1,45,59,target simple,1,It was the only one without a hat.,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+1,46,17,target complex,2,he the only guy in the red cap,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+1,49,43,target complex,2,the image stands because of the blue hat that's different from the rest.,other_reason,salience,other_reason,odd_one_out,1,0,other_reason,odd_one_out
+1,51,51,target complex,1,because he has a blue hat on.,other_reason,odd_one_out,unclear,,0,0,other_reason,odd_one_out
+1,55,28,target simple,2,because this monster is the same as what the previous participant said and it was the only one without a hat/cap,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+2,61,25,target complex,1,Because the other two have the scarf in common,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+2,63,25,target complex,1,no scarf,other_reason,odd_one_out,other_reason,odd_one_out,1,1,other_reason,odd_one_out
+2,99,25,target complex,2,It was a robot not wearing a scarf.,unclear,,other_reason,odd_one_out,0,0,other_reason,odd_one_out
+1,1,17,target complex,1,They picked the purple monster so I guessed it was a purple monster. If they had picked blue hat it would have been out of the two with blue hats so I assumed the one I was selected was correct.,other_reason,odd_one_out,guess,,0,0,other_reason,other
+3,121,59,target simple,2,Because I think the participate would have selected the hat if it was that picture.,correct_reasoning,,other_reason,other,0,0,other_reason,other
+3,124,15,target complex,2,i feel blue is a stronger colour and would have been to obvious,other_reason,other,other_reason,other,1,1,other_reason,other
+3,151,51,target complex,1,"because there are two red caps, so you could not have chosen the red cap for an indicator",unclear,,unclear,,1,1,other_reason,other
+3,161,43,target complex,1,"there are 2 characters with red hats, but only 1 purple monster",unclear,,other_reason,other,0,0,other_reason,other
+3,167,57,target complex,2,"Because the participant didn’t choose the majority hat, so it must be the minority.",unclear,,other_reason,odd_one_out,0,0,other_reason,other
+3,167,28,target simple,1,"Because the participant did not choose hats, like the other two are wearing.",correct_reasoning,,other_reason,visual_resemblance,0,0,other_reason,other
+1,17,43,target complex,1,"If it was one of the other images, why didn't they pick the hat?",unclear,,unclear,,1,1,other_reason,other
+4,207,15,target complex,2,Triangle and there are 2 green,unclear,,other_reason,other,0,0,other_reason,other
+4,216,2,target complex,2,I think they meant to indicate the green circle by clicking on the green paint otherwise they could have just clicked onthe circle,other_reason,other,other_reason,other,1,1,other_reason,other
+4,234,25,target complex,1,because there were 2 red,unclear,,other_reason,other,0,0,other_reason,other
+1,37,5,target complex,2,I won't try fall for the same trick twice. The opponent would clearly try confuse me in either option,other_reason,other,unclear,,0,0,other_reason,other
+1,37,12,target simple,1,The cap was in the reverse position and I thought the opponent would try to confuse me,other_reason,other,other_reason,visual resemblance,1,0,other_reason,other
+1,43,51,target complex,2,"red hat could have been an option. there are no robots to choose from, which would have been easy.so no red hat, but yes monster",unclear,,other_reason,other,0,0,other_reason,other
+1,53,17,target complex,2,The didn't pick a hat colour so I assumed they wanted me to pick the monster with a hat in common with another creature,correct_reasoning,,other_reason,salience,0,0,other_reason,other
+1,57,63,target complex,2,i think they wouldve picked the blue hat,unclear,,other_reason,other,0,0,other_reason,other
+2,70,2,target complex,1,"because there is two green monsters, only one wearing a hat so i went with that",unclear,,other_reason,salience,0,0,other_reason,other
+3,159,63,target complex,1,the blue cap is more attractive,other_reason,preference,other_reason,preference,1,1,other_reason,preference
+3,164,42,target simple,1,I like the look of it.,other_reason,preference,other_reason,preference,1,1,other_reason,preference
+1,35,15,target complex,2,Because i like blue and the monster matches the monster on top,guess,,other_reason,preference,0,0,other_reason,preference
+1,44,63,target complex,1,"The monster looks the same as the monster the previous participant chose, and the blue cap because blue is more neutral and less danger compared to red cap colour",other_reason,preference,other_reason,salience,1,0,other_reason,preference
+2,90,57,target complex,2,this  robot seems  cool,other_reason,preference,other_reason,preference,1,1,other_reason,preference
+2,90,12,target simple,1,I prefered this creature,other_reason,preference,other_reason,preference,1,1,other_reason,preference
+2,108,7,target complex,2,This creature seems more unique with the scarf.,other_reason,preference,other_reason,salience,1,0,other_reason,salience
+3,124,27,target simple,1,because it is the biggest  picture with a red cap,other_reason,salience,other_reason,salience,1,1,other_reason,salience
+1,26,24,target complex,1,Just stood out to me more,other_reason,salience,other_reason,preference,1,0,other_reason,salience
+1,41,24,target complex,2,He is fat,other_reason,salience,other_reason,salience,1,1,other_reason,salience
+1,44,12,target simple,2,"Creature is likely to be chosen than a robot, just for fun and adrenaline rush",unclear,,other_reason,preference,0,0,other_reason,salience
+1,49,30,target simple,1,the image stands out from the rest because of the scarf.,other_reason,salience,other_reason,salience,1,1,other_reason,salience
+2,66,36,target simple,2,The scarf stands out as prominent,other_reason,salience,other_reason,salience,1,1,other_reason,salience
+2,80,7,target complex,2,"because at first glance, it is the green monster, the red hat guided my eyes to that figure over the figure on the left with the scarf",other_reason,salience,other_reason,salience,1,1,other_reason,salience
+1,31,2,target complex,1,It had a red cap facing right,other_reason,visual_resemblance,other_reason,visual resemblance,1,1,other_reason,visual_resemblance
+1,33,18,target simple,1,the cap is facing the same direction,other_reason,visual_resemblance,other_reason,visual resemblance,1,1,other_reason,visual_resemblance
+1,38,5,target complex,1,The direction of the cap influenced my decision,other_reason,visual_resemblance,other_reason,visual resemblance,1,1,other_reason,visual_resemblance
+1,40,42,target simple,1,Because the previous participant has the purple creature with green hair,other_reason,visual_resemblance,other_reason,visual resemblance,1,1,other_reason,visual_resemblance
+1,46,8,target simple,1,because you can see the eyes,other_reason,visual_resemblance,other_reason,visual resemblance,1,1,other_reason,visual_resemblance
+3,119,30,target simple,1,it is the closest to the one the participant picked,other_reason,visual_resemblance,unclear,,0,0,other_reason,visual_resemblance
+3,123,42,target simple,2,The previous participant's image is the same aside from the fact that my chosen image is wearing a Scaff but its head is exposed,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,125,28,target simple,2,same image no hat,unclear,,other_reason,visual_resemblance,0,0,other_reason,visual_resemblance
+3,126,30,target simple,2,No hat on head,unclear,,other_reason,visual_resemblance,0,0,other_reason,visual_resemblance
+3,128,5,target complex,1,The image of the blue cap is the same direction,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,130,8,target simple,1,it has no hat,unclear,,other_reason,visual_resemblance,0,0,other_reason,visual_resemblance
+3,131,5,target complex,2,The hat is the same direction as the message.,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,131,8,target simple,1,It shows the monster's face the best.,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,133,36,target simple,1,Because the head was uncovered and I thought it most similar,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,134,5,target complex,2,Because of the direction the hat is facing,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,134,12,target simple,1,Because of the direction of the hat,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,136,59,target simple,1,Because you can see the hair on this one,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,137,5,target complex,2,"it also has a blue hat, facing the the same direction",other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,137,18,target simple,1,"There is a blue hat in it, facing the same way",other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,138,28,target simple,2,the right colour with no hat,unclear,,other_reason,visual_resemblance,0,0,other_reason,visual_resemblance
+3,139,42,target simple,1,As the clue was the purple alien with no hat on and the one I chose has no hat on,unclear,,other_reason,visual_resemblance,0,0,other_reason,visual_resemblance
+1,14,24,target complex,2,the hat is facing right,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,140,30,target simple,1,you can see the eyes,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,143,30,target simple,2,"There are two purple creatures, it would have been more helpful if they selected the scarf or the blue hat for me to identify the correct purple creature. But because they didn't, I chose the one you could see the hair of since you can see the hair of the one they selected",other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,144,30,target simple,1,It is the closest to matching the previous picture,other_reason,visual_resemblance,unclear,,0,0,other_reason,visual_resemblance
+3,151,26,target simple,2,the cap is facing the same direction,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,155,30,target simple,1,The creature is not wearing a cap,unclear,,other_reason,visual_resemblance,0,0,other_reason,visual_resemblance
+3,156,42,target simple,2,no hat,unclear,,other_reason,visual_resemblance,0,0,other_reason,visual_resemblance
+3,159,30,target simple,2,It is the only creature without the cap and it is the only one that resembles the creature on top more than the one wearing a cap.,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,162,59,target simple,1,it looks most similar to the message from previous participant,other_reason,visual_resemblance,unclear,,0,0,other_reason,visual_resemblance
+3,166,36,target simple,1,as its the closest to what the previous person said,other_reason,visual_resemblance,unclear,,0,0,other_reason,visual_resemblance
+1,17,40,target simple,2,The cap is facing the correct way,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,171,2,target complex,1,because it has a red hat on facing the same way as in the picture the previous participant chosen,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,171,8,target simple,2,because it is the same creature and and you can see his head,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+3,176,26,target simple,2,it has a red hat facing the same direction,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+4,207,59,target simple,1,Its round and the colour is nearest to clear,other_reason,preference,other_reason,salience,1,0,other_reason,visual_resemblance
+1,26,8,target simple,2,Matches better to the previous participant than the red hat,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+1,3,28,target simple,2,Wanted me to pick monster but without a hat. This is closest.,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+1,36,30,target simple,1,"Whilst there was 2 options (and the previous participant had the chance to distinguish each image), this one had no hat which is more distinctive even if wearing a scarf",other_reason,salience,other_reason,visual resemblance,1,0,other_reason,visual_resemblance
+1,4,42,target simple,2,Because it is a pink monster however it is not wearing a red hat,unclear,,other_reason,visual_resemblance,0,0,other_reason,visual_resemblance
+2,63,27,target simple,2,hat position,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+2,68,12,target simple,2,the scarf is the same,other_reason,visual_resemblance,unclear,,0,0,other_reason,visual_resemblance
+2,73,17,target complex,1,you can see the robot's head better than in the middle image,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+2,79,2,target complex,2,This is the only image with the exact same hat as the clue from the participant.,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+2,79,30,target simple,1,It most closely resembles what the previous participant picked.,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+2,85,17,target complex,1,Because it appears closest to the participant image.,other_reason,visual_resemblance,guess,,0,0,other_reason,visual_resemblance
+2,87,42,target simple,1,Well because it seemed to be the one that matches with image on top and at the bottom images,unclear,,other_reason,visual_resemblance,0,0,other_reason,visual_resemblance
+2,95,7,target complex,2,because it is the closest one the the one chosen by the last participant,other_reason,visual_resemblance,guess,,0,0,other_reason,visual_resemblance
+2,95,42,target simple,1,this is the closest to the hint i have,unclear,,unclear,,1,1,other_reason,visual_resemblance
+2,97,63,target complex,2,It is the closest to the message provided by participant,unclear,,other_reason,visual_resemblance,0,0,other_reason,visual_resemblance
+2,98,12,target simple,2,same shape of scarf,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+1,1,18,target simple,2,They couldnt select robot so picking blue hat suggested blue hat robot to me. If it was blue hat purple alien they would have purple alien.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,10,12,target simple,2,As before the prev participany did not say it was the green monster so assume this was because it was the robot,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,101,18,target simple,2,"The scarf clue implies I should choose a picture with one. Because there are 2 things wearing the scarf, I opted for the one that was not on the messages. Because had the other participant intend for me to choose the robot, they would have given me the robot clue as it was available.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,105,51,target complex,2,"they said robots. there are two robots with one wearing a hat and one wearing a scarf. however, if it were the scarf they wouldve have chosen scarf. its likely that it was the hat as there are two creatures with a hat and so if they chose hat i would have thought it was the purple creature as there is no option for the previous participant to choose purple creature",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,106,40,target simple,2,"I picked this image because they had the green monster, but not the purple one. Even though they're both wearing scarves only one can be represented with the scarf because they don't have an image to use below.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,107,49,target complex,2,If they picked red hat it could have been 2 options . If it was monster with scarf they should have picked scarf,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,107,42,target simple,1,If it was the monster they could have picked scarf or monster and I would have known. If it was the robot with red had they could have picked red hat and known.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,109,18,target simple,1,"The creature is the only one not featured in the prechosen messages. Since there are two scarves in the photo, one on the robot and one on the purple monster, the right one must be the purple monster. If the right answer was the robot they would have chosen the robot because there is only one robot and it would have been easy to put the robot as the message",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,112,15,target complex,2,As there are 2 green monsters and also 2 red hats. it would seem logical the participant is trying to signal the red hat on green monster,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,112,40,target simple,1,if it were the green monster I believe they were trying to signal for the green one for the scarf. as there is a purple one it would seem this one would be the logical option as it is not on the list.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,114,17,target complex,1,if it was the other robot they would of chosen red hat,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,114,12,target simple,2,if it was the other monster with the scarf they would of chosen the green monster picture,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,116,36,target simple,1,there's two robots but if they wanted me to pick the first one i think they would've picked the red hat instead,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,117,25,target complex,2,"because red hat would have worked for other robot, but scarf or just robot would leave two options open.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,117,8,target simple,1,Because they could've chosen red hat or the scarf to signify the other two images.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,118,25,target complex,1,"If the scarf, red hat, robot, and green monster were the only four things to choose from, then the robot would have been the one to choose if they wanted me to choose that picture because the alien has a scarf too, and if they wanted me to choose the robot with the red hat they would have chose the red hat.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,118,8,target simple,2,"The only hat they had as an option was the red one, so because they picked the robot instead of signifying that it was the robot with the red hat by picking the red hat, I picked the robot with the blue hat.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,12,25,target complex,2,because robo has blue cap too,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,13,57,target complex,2,"I would assume the previous participant would send a blue had for the image on the right (purple monster + blue hat), a red hat for the image on the left (robot + red hat).  Since they didn't send a blue hat, and they sent an image of a purple monster, it must be the centre image.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,13,30,target simple,1,"There are two purple monsters.  If the previous participant wanted me to choose the one on the left, they could have communicated this clearly by sending a blue hat message.  Since they've sent an ambiguous message, I'm assuming that they couldn't use a message to narrow it down, meaning it must be the centre purple monster.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,14,28,target simple,1,Because a hat was not chosen,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+3,142,2,target complex,1,"Red hat, common green creature",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+3,147,15,target complex,1,would of put blue hat if if it was the middle one,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,15,36,target simple,2,"because it is not wearing a hat.  if the person wanted me to choose the other purple guy, i think they wouldve chosen the red hat",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+3,158,25,target complex,1,"Because he could have been referencing the blue hat, so he picked the creature instead. the one with the red hat could have just been a red hat to identify it",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,16,2,target complex,1,I thought the participant before me chose this because otherwise they would have picked the pink monster.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,16,59,target simple,2,They didnt choose a blue hat to represent,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+3,168,49,target complex,2,"I had to choose out of the two green monsters. If the participant wanted me to guess the blue hat green monster, I think they would have chosen blue hat as the clue because he is the only creature wearing a blue hat. So on that info, the red hat green monster seemed logical",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+3,169,24,target complex,2,"if the previous participant wanted me to choose the green monster wearing the blue hat, they would've selected the green monster. so, I can tell that the purple monster is the right answer",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+3,170,25,target complex,1,"If they had meant the purple guy in the middle, I assume they would have picked the red hat.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,178,27,target simple,2,square not a choice.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,179,2,target complex,1,"It is either the green circle or the green triangle. If it was the green circle, the prev. part. would have picked the circle as the message.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,179,36,target simple,2,"It is either the blue circle or the green circle. If it was the green circle, the prev. part. would have picked the green splash of paint as the clue.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,18,51,target complex,2,because for the other creature they could have chosen the blue cap and for the robot the red,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,18,33,target simple,1,because they had the choice of the hats but didn't use them.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,180,43,target complex,2,"the other person would have chosen green for the 1st box or red for the 3rd red circle, leaving the circle to mean only the green one",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,180,40,target simple,1,because the other person would have chosen the triangle for the first and the circle for the second. This leaves the red square,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,181,33,target simple,1,I think they would have chosen the red paint if they wanted me to pick the red triangle.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,184,63,target complex,1,It had to be one of the triangles. It they wanted the green one they would have picked green as that distinguishes it from the other two items,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,184,27,target simple,2,It had to be one of the green ones. If it had been the triangle they would have picked triangle,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,185,63,target complex,1,he would have said green if it was the green triangle as it was the only green shape,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,188,40,target simple,2,I chose the red square because there was no square available to the previous participant. Otherwise they would have chosen the triangle.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,189,5,target complex,1,"the only sensible option - they would have done triangle if they wanted the first, or circle if they wanted the middle",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,189,40,target simple,2,"triangle would make be click on triangle
+green would make me click on green
+only square left",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,19,36,target simple,2,Because it matches the body of the monster and doesn't have a red hat - I would have chosen the red hat if it had been the one on the right.,correct_reasoning,,other_reason,visual_resemblance,0,0,correct_reasoning,
+4,193,5,target complex,1,Red was the clue given which applies to both the circle and the triangle. Had it been the triangle they wouldn't have needed to specify red as there's only one and saying triangle would have been enough. Therefore it's the red circle.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,193,8,target simple,2,"There are two circles and it could be either of those. However, the other circle is green and therefore clicking green paint splotch would provided a better clue. So it makes sense that they were trying to communicate that this was the blue circle, not the green one.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,194,15,target complex,2,Because if the triangle had been red the participant would have used the red paint indication,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,194,33,target simple,1,Because if it had been the left triangle the participant would have used the red indication.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,195,5,target complex,1,"if they said circle it would mean blue or red, and triangle wasnt chosen which would of been obviously the red triangle. So it must be red circle",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,195,36,target simple,2,"it could have been green colour or red, but neither used. insstead a circle and no colour so it must mean blue circle as that has no option for blue",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,196,26,target simple,1,because they had the option to choose a triangle but didn't,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,200,25,target complex,1,"If it was the green circle, they would have chosen green.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,200,27,target simple,2,"If it was the triangle, they would have chosen the triangle.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,203,59,target simple,2,"There is no blue option, so circle is the best description. If it was the red circle the previous participant could have chose red as the message",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,204,24,target complex,2,"Because there are two red images and two circles. If the previous participant had wanted me to pick the triangle, they would have messaged triangle as there is only one triangle. If they had messaged circle I would not have known which circle they meant. And they couldn't message blue to me.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,204,26,target simple,1,"Because there are two green objects and only one of them is a triangle. If the previous participant had wanted me to pick a triangle, they would have picked the triangle message. Also, there is no square message they could have sent me.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,206,59,target simple,2,The blue isn't an option in the viable answers,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,208,18,target simple,2,Because there is no square shape so saying they said red instead of circle,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,209,63,target complex,2,"If it was the green triangle, would have expected to select colour green to differentiate",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,209,18,target simple,1,"Because the square wasn't an option, if it was the circle then he would have selected the circle rather than colour red",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,21,63,target complex,1,"Because one monster and robot have the same color hat, and the only image not shown to the other participant's choices is the robot, I thought the option I picked is the correct one.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,21,36,target simple,2,"If the actual option was the purple monster wearing the red hat, then the participant would have mentioned the red hat image since there are nor options for the scarf.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,210,7,target complex,2,They would have picked the green colour for the other triangle as it's the only shape with that colour.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,210,42,target simple,1,I choose this image because I think that it has to be the blue because they could have picked the green colour to indicate the other circle.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,212,2,target complex,2,"If it was the circle, they probably would have picked the circle.  Because they didn't, I can probably assume that it's the green triangle.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,212,12,target simple,1,"If it was the red triangle, they probably would have selected the triangle, because that would eliminate any other options.  Because they didn't, I can (hopefully) infer that it must be the square.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,213,57,target complex,2,becasue if it was the other circle they could have just said red,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,214,40,target simple,2,No option for square in messages,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,215,18,target simple,2,red was chosen with no square option for previous person,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,216,42,target simple,1,Becuase if the previous participant had meant the green circle then they could have just clicked on the green paint,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,22,12,target simple,2,"Because a robot is not an option for the previous participant to chose so the blue hat was the only way to indicate the robot. If the highlighted image was the monster, they could have chosen the monster.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,221,8,target simple,2,there is no option for blue,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,223,59,target simple,1,"It was either image 2 or 3 and had it been 2 there is a chance the PP could have chosen Red, With image 3 the only thing they could have chosen is a circle.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,224,26,target simple,2,"If it was green-triangle, just choosing triangle was enough information therefore by choosing green I felt they were indicating the green-square rather than green triangle.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,225,49,target complex,1,"Because if they had said green I would have two choices, if they had wanted me to pick red they could have said red as there was only one choice",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,225,12,target simple,2,If can't be the green circle and if it have been the red triangle they would have chosen a triangle. There was no option for square so they chose red,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,226,8,target simple,2,It it was the green circle i would have said the green paint,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,228,43,target complex,2,"They could have used red if it was the red circle, so it must be the green circle.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,228,12,target simple,1,The colour is the only available characteristic for a red square and they could have used the triangle or circle symbols if that was the required image.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,229,2,target complex,2,"because there is 2 triangles if they chose the triangle shape id of not known which one, if they wanted me to choose circle i felt they would of chosen that option",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,229,36,target simple,1,because it is blue and there is no blue option,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,232,30,target simple,1,"Because it is round, there are 2 colour options and Blue is not one of them, so it has to be the blue one",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,234,12,target simple,2,because square was not an option,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,236,51,target complex,1,"If they meant the red circle they'd pick red, and the circle distinguishes from the green.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+4,236,42,target simple,2,"There is no blue, they'd pick green if it was the other circle.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,24,42,target simple,1,"This looks like the image most, because the scarf isn't available below, but the red hat is.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,25,12,target simple,1,It has blue hat and robot wasn't an option,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,3,17,target complex,1,"The person couldn't pick blue as that may have led me to the robot with blue hat, so it must be monster with blue hat.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,30,8,target simple,2,I think they would have chosen the red cap if they intended me to choose the left-hand image,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,34,57,target complex,1,"Because if they wanted me to pick the purple guy with the blue hat I think that  they would have sent ""blue hat"". If they wanted me to pick the robot I think they would have sent ""red hat"". The purple guy with a red hat was the last choice by elimination.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,34,8,target simple,2,"If they wanted me to pick either of the 2 others, they would have sent one of the hats.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,36,24,target complex,2,Could've picked the big green monster if they wanted me to pick that. Would assume the other monster image would be for the scarfed version so blue hat for the one i picked,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,38,26,target simple,2,The robot is the only unavailable choice,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,39,17,target complex,2,I think they would have chosen red if it was the other.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,39,27,target simple,1,"because it was not the green monster, which they would have chosen if it was the other with the green hat.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,4,2,target complex,1,"Because using the green monster would be confusing as it is the same as the image on the right, but the red hat would likely not be used to represent the image in the middle because a pink monster would be used.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,41,27,target simple,1,"Robots are  cool and it was not an option that prior participants could indicate, they only way they could was with cap color",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,43,59,target simple,1,"the color of the hat could have been chosen. since the previous participant said purple monster, and a scarf was not an option, i assume the implication is to choose the monster without a hat",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,5,28,target simple,1,Because if it had been the purple monster with the blue hat on then I'd have expected them to pick the blue hat. As they didn't i assume it has the scarf on instead. I don't think it is the green monster as the one they picked is neither green nor wearing a red hat,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,50,17,target complex,2,"If they wanted me to choose the other purple monster, they'd choose red hat. Because there's two blue hats, they have to choose purple monster for that one.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,50,18,target simple,1,"Because there's two blue hat creatures, but no robot image. if they wanted me to pick purple monster, they would've chosen that. process of elimination.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,52,59,target simple,1,"If i was the previous participant, If the selected image was the right one I wouldve sent a blue hat as it is the only unique trait. For the middle it would be the green monster or the red hat as those are the unique traits. Because the left image is the same monster as the right I would have to assume that the previous participant would chose a blue hat if they wanted me to chose the right one.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,53,36,target simple,1,Because the previous participant could have picked red hat if they wanted me to select the monster with red hat on....as they didn't I assume they wanted me to pick the other one,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,54,2,target complex,1,"Because it can't be the purple alien, otherwise they would have chose that as the photo. And of the 2 images left only one has a red hat",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,54,26,target simple,2,The other two images have options of their monsters that would've made it obvious for me to choose them.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,56,43,target complex,2,"There are two with the same hat colour, so this image indicates the monster instead of the robot. Were it the monster with the blue hat, they would have indicated with the blue hat.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,56,8,target simple,1,"If they wanted me to choose another one, they would have indicated by the hat colour.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,57,8,target simple,1,i think they wouldve picked the red hat,unclear,,correct_reasoning,,0,1,correct_reasoning,
+1,59,27,target simple,2,Because there is a monster picture so I think the previous participant would have chosen monster rather than red hat if they wanted me to choose number 3,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,6,42,target simple,2,"The scarf has no option in the hint section, and if the previous participant wanted me to choose the purple alien with the red cap then they would have (or should have) selected the red cap as the message.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,60,43,target complex,2,if they wanted me to pick the robot with the scarf they would have put a scarf icon so the fact they didn't makes me think it's the red cap one,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,60,30,target simple,1,because there are two robots - if they wanted me to pick the scarf robot they would have put the scarf item. There is no blue cap icon so this must be the robot they expected me to pick,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,64,26,target simple,2,The purple monster was not there,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,65,43,target complex,1,"Because if the image was the scarf one, the smart thing would be to choose a scarf",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,65,40,target simple,2,"Because if the image was the big green monster, the smart thing would be to choose the big green monster",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,67,49,target complex,2,Because they could have picked the scarf if it was the other monster,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,67,26,target simple,1,Because if they meant the green monster they could have clicked ir,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,69,7,target complex,1,The previous participant would have said 'Red Hat' if he wanted me to select the other monster. Sending the green monster was a way to differentiate between the two scarves.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,69,8,target simple,2,Because the sender could not send a blue hat.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,7,24,target complex,1,Because they could not select the pink figure as it would leave me a choice of two so to differentiate between the two monsters its by that hat,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,7,28,target simple,2,because they could have chosen a hat fpr the other two,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,70,33,target simple,2,because if it was the other monster than the other participant could have picked the other accessory,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,72,63,target complex,2,if he wanted me to choose left he would have provided the red hat. so to choose between the two scarf wearers he shared the troll,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,72,12,target simple,1,i would have given the troll or robot to click the others. as this focuses on the scarf it makes sense its the non troll scarf wearing figure,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,73,26,target simple,2,it was a red hat and i would have thought if they wanted me to choose the green monster they would have chosen the green monster,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,75,5,target complex,2,Because the participant did not chose the green monster,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,75,26,target simple,1,Because the participant did not chose the green monster,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,76,8,target simple,1,Because there's no blue hat,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,77,26,target simple,1,"there are 2 creatures wearing red hats, so the robot not wearing a hat is out.  There is a green monster picture available to use, and it was not used, therefore I chose the purple creature with the red hat",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,78,18,target simple,1,"Because there was icons for both the monster and the robot, yet they chose not to use them, using only the yellow scarf, leading me to assume that its the purple guy as hes also wearing a yellow scarf so using that icon would make the most sense for me to pick him.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,81,17,target complex,2,"Can't be the red hatted robot, as they would have chosen the red hat - so it must be the robot with the scarf.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,81,18,target simple,1,"If it had been the robot, s/he would have chosen the scarf - and if it had been the green monster, s/he would have chosen the green monster - so it must be the purple monster.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,82,42,target simple,2,because if it had been the other robot they would have hit the red hat,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,83,18,target simple,1,"Because the purple alien is not available as one of the images. So I figured the participant chose scarf to represent that character, or else they would have used the robot image.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,84,27,target simple,2,It's the only option with a hat that isn't included below,correct_reasoning,,unclear,,0,1,correct_reasoning,
+2,85,30,target simple,2,Because the previous participant would have selected a scarf if it were the other robot.,correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,86,25,target complex,2,"There are two robots.  There are two things wearing scarves.  If they wanted to denote the robot wearing the red hat they could have chosen red hat.  In order to distinguish monster wearing scarf from robot wearing scarf, they choose robot.  Or alternatively, they choose robot not wearing red hat.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,86,30,target simple,1,"There are two robots - there is a red hat and a scarf.  If they wanted to suggest the robot with the scarf they would have chosen scarf - because they choose just robot, I deduced that they meant the robot not wearing the scarf.",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+1,9,36,target simple,2,"Is a alien with no hat, they could've put red hat to signify the other alien",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,96,33,target simple,1,"Because the previous participant cant say a blue hat, if they intended me to pick the other green monster they would have said a scarf",correct_reasoning,,correct_reasoning,,1,1,correct_reasoning,
+2,100,59,target simple,1,"Sorry, I clicked the wrong one as I tried to get the test to unfreeze, I meant the left because it has not hat",exclude,,exclude,,1,1,exclude,
+2,104,26,target simple,1,i intended to pick the second one,exclude,,exclude,,1,1,exclude,
+2,105,40,target simple,1,"because they said scarf. although as there are two creatures with scarves and only one of which are an option for the previous participant to click, im realising i should have picked purple",exclude,,exclude,,1,1,exclude,
+2,109,43,target complex,2,"I choose the wrong one. I should have chosen the red hat robot, if it was the scarf robot they would have put a scarf as the message.",exclude,,exclude,,1,1,exclude,
+3,174,33,target simple,1,Image was stuck.  I wanted the 1st image,exclude,,exclude,,1,1,exclude,
+4,187,33,target simple,1,"maybe i should have pressed blue cos otherwise he would have said red, sorry",exclude,,exclude,,1,1,exclude,
+4,197,49,target complex,2,The previous participant is an idiot,other_reason,other,exclude,,0,0,exclude,
+4,197,18,target simple,1,The previous participant is an idiot,other_reason,other,exclude,,0,0,exclude,
+1,2,59,target simple,1,"Its the same creature from above. Maybe I should have picked the one with the scarf though,",guess,,exclude,,0,1,exclude,
+1,5,57,target complex,2,It was out of this one or the one with the red hat. I've now changed my mind and think it is the one with the red hat or they would have picked the one with the blue hat instead.,exclude,,exclude,,1,1,exclude,
+1,6,7,target complex,1,"I actually made a mistake and meant to choose the monster on the left, I act faster than I think :P
+
+But the reason i would have chosen the blue cap monster is because if the previous participant wanted me to choose the red cap monster he'd select the hint to be the red cap, as no other image has the red cap.",exclude,,exclude,,1,1,exclude,
+2,78,57,target complex,2,"After thinking further I should have selected the robot with the red hat, as if they wanted me to select the yellow scarfed robot they would use the icon for the yellow scarf. So since they didnt use the scarf it makes more sense for it to be one of the red hatted robot/creature. And since they decided to use the robot instead of just the hat id assume itd be the red hatted robot.",exclude,,exclude,,1,1,exclude,
+2,80,30,target simple,1,"Oh shoot I meant to pick the robot with the scarf, that was an error on my part.",exclude,,exclude,,1,1,exclude,
+2,82,25,target complex,1,I have actually changed my mind but i thought it was because it was the best option,exclude,,unclear,,0,1,exclude,
+2,101,49,target complex,1,Because it shows the same monster as the other participant showed. However there is an equal chance that the other participant wanted me to pick the monster wearing a scarf.,guess,,guess,,1,1,guess,
+2,103,5,target complex,1,I chose this because the robot is wearing the scarf and it is middle choice,guess,,guess,,1,1,guess,
+2,106,25,target complex,1,I had to make a guess on which one because it was vague to me.,guess,,guess,,1,1,guess,
+2,108,40,target simple,1,This creature is seen the least with the scarf.,other_reason,salience,guess,,0,0,guess,
+2,110,15,target complex,1,"I think the previous participant intended me to pick the green monster, but there is two of them so I just guessed the one wearing a scarf.",guess,,guess,,1,1,guess,
+2,110,27,target simple,2,"I think the previous participant intended me to pick a monster with a red hat, but there is two so I guessed one.",guess,,guess,,1,1,guess,
+2,111,51,target complex,2,its a robot and there have been red hats in the past,guess,,guess,,1,1,guess,
+2,111,42,target simple,1,because its a robot and the previous image before was a hat,guess,,guess,,1,1,guess,
+2,116,43,target complex,2,"it's the robot, and it's the first one",guess,,guess,,1,1,guess,
+3,121,49,target complex,1,Because I thought the red hat was less obvious than the blue one however some of it was just my first instinct.,other_reason,other,guess,,0,0,guess,
+3,122,36,target simple,1,Because the red hat came first in list of object to differentiate between the 2 purple monsters.,guess,,guess,,1,1,guess,
+3,125,43,target complex,1,its the same creature and the last one was blue,guess,,guess,,1,1,guess,
+3,126,49,target complex,1,Partical match,guess,,unclear,,0,1,guess,
+3,127,25,target complex,2,It is in the middle and matches the message,guess,,guess,,1,1,guess,
+3,127,28,target simple,1,It was one of the ones which matched the message but there were two so I clicked whichever my cursor was closest to to minimise effort,guess,,guess,,1,1,guess,
+3,128,28,target simple,2,It is the same purple guy,unclear,,unclear,,1,1,guess,
+3,129,49,target complex,1,because it could be either of the monsters,guess,,guess,,1,1,guess,
+3,129,27,target simple,2,it could be either the robot or the green monsters,guess,,guess,,1,1,guess,
+3,130,43,target complex,2,it is the first one of the represented creature,guess,,guess,,1,1,guess,
+3,132,17,target complex,2,The same creature as the image,guess,,unclear,,0,1,guess,
+3,132,33,target simple,1,The same creature as the picture,guess,,unclear,,0,1,guess,
+3,133,63,target complex,2,It was the first most similar option,unclear,,guess,,0,1,guess,
+3,136,15,target complex,2,I guessed,guess,,guess,,1,1,guess,
+3,138,2,target complex,1,i chose betwoeen one of the two with red hats,guess,,other_reason,visual_resemblance,0,0,guess,
+3,139,43,target complex,2,It was a guess between the purple alien with the red hat and blue month,guess,,guess,,1,1,guess,
+3,141,57,target complex,2,matches the creature,guess,,unclear,,0,1,guess,
+3,141,8,target simple,1,the creature matches but I picked randomly since the accessory wasn't specified,guess,,guess,,1,1,guess,
+3,142,18,target simple,2,Left bias,guess,,guess,,1,1,guess,
+3,143,2,target complex,1,It's one of two creatures wearing the matching hat,guess,,guess,,1,1,guess,
+3,145,5,target complex,1,the blue cap 50/50,guess,,guess,,1,1,guess,
+3,146,63,target complex,1,Cause it is the green creature.,guess,,unclear,,0,1,guess,
+3,146,33,target simple,2,Same creature 50/50 chance to be right.,guess,,guess,,1,1,guess,
+3,147,30,target simple,2,50/50 choice,guess,,guess,,1,1,guess,
+3,148,51,target complex,1,The monster is the same one as in the clue the previous participant gave. I picked a random one from the two options with the same monster.,guess,,guess,,1,1,guess,
+3,149,63,target complex,2,I picked the one in the middle cause I'm assuming that what one would go for although there's two of the green monsters,guess,,guess,,1,1,guess,
+3,150,25,target complex,2,It has the purple alien and there are two options for purple aliens. There is no further clue as to which purple alien it could be so I chose a random one.,guess,,guess,,1,1,guess,
+3,150,18,target simple,1,It has a blue hat but there are two options with blue hats so I guessed the answer.,guess,,guess,,1,1,guess,
+3,152,17,target complex,2,didn't put any thought into it,guess,,guess,,1,1,guess,
+3,152,59,target simple,1,i made a judgement call between the scoff and blue cap,guess,,guess,,1,1,guess,
+3,154,2,target complex,2,I just took a guess between the green man and purple man - both were wearing red hats so there's not really a way to tell which one the previous participant intended for me to pick,guess,,guess,,1,1,guess,
+3,154,18,target simple,1,There are 2 images which make use of the blue cap. I just took a guess between the two,guess,,guess,,1,1,guess,
+3,160,25,target complex,2,The previous participant chose the purple monster so I chose between image 2 and image 3.,guess,,guess,,1,1,guess,
+3,160,18,target simple,1,The previous participant chose the blue hat so I chose the one between image 1 and image 3.,guess,,guess,,1,1,guess,
+3,161,26,target simple,2,it was a guess - I couldn't tell which image I was intended to select,guess,,guess,,1,1,guess,
+3,162,7,target complex,2,It is obviously not the robot but it could be either of the others,guess,,guess,,1,1,guess,
+3,163,24,target complex,2,it had to be the second or third image due to the blue hat,guess,,guess,,1,1,guess,
+3,163,12,target simple,1,it had to be the first or second image due to the blue hat,guess,,guess,,1,1,guess,
+3,168,28,target simple,1,It had to be either of the purple monsters. I couldn't narrow it down further so I took a 50/50 guess,guess,,guess,,1,1,guess,
+3,169,18,target simple,1,"it's wearing a blue hat, so I picked the first image wearing a blue hat instead if the second one",guess,,guess,,1,1,guess,
+3,170,12,target simple,2,"It's the first one with a blue hat, and there's no way to deduce anything with this set.",guess,,guess,,1,1,guess,
+3,172,43,target complex,2,because it is the same monster,unclear,,unclear,,1,1,guess,
+3,172,42,target simple,1,Because it is the same monster,unclear,,unclear,,1,1,guess,
+3,173,2,target complex,2,choice of 2,unclear,,guess,,0,1,guess,
+3,174,57,target complex,2,"There was 2 of the same, I picked the 1st",guess,,guess,,1,1,guess,
+3,175,49,target complex,1,it was a 50/50 split between the middle and right image so i guessed the middle image,guess,,guess,,1,1,guess,
+3,175,18,target simple,2,"it was a 50/50 guess between the middle and left image so i guessed the left, as i had previously chosen to guess the middle and it is more likely that the correct answer would not be in the same place twice in a row",guess,,guess,,1,1,guess,
+3,176,63,target complex,1,it was the first one in the line and the one next to it is the same just a different colour hat,guess,,guess,,1,1,guess,
+3,177,15,target complex,2,The same image as the previous participant,unclear,,unclear,,1,1,guess,
+4,178,49,target complex,1,triangle choice,guess,,guess,,1,1,guess,
+4,181,51,target complex,2,There's no real was to determine which circle they wanted,guess,,guess,,1,1,guess,
+4,183,57,target complex,1,It's a circle.,guess,,guess,,1,1,guess,
+4,183,28,target simple,2,It's a circle.,guess,,guess,,1,1,guess,
+4,186,63,target complex,1,They wanted me to click on a triangle,guess,,guess,,1,1,guess,
+4,186,27,target simple,2,It had to be either this or the triangle,guess,,guess,,1,1,guess,
+4,187,49,target complex,2,no way of knowing,guess,,guess,,1,1,guess,
+4,188,25,target complex,1,"I decided to go with the first circle on the left, as there is a circle on the left in the choices available to the previous participant.",guess,,guess,,1,1,guess,
+1,19,57,target complex,1,I chose it because it must have been either the middle or right hand image - so I chose one at random.,guess,,guess,,1,1,guess,
+4,190,40,target simple,2,"There are two red shapes, so there's no way to know for sure what the participant intended. I just went with the one in the middle.",guess,,guess,,1,1,guess,
+4,191,51,target complex,2,Because it is a circle,guess,,guess,,1,1,guess,
+4,192,33,target simple,2,IT IS ALSO A TRIANGLE,guess,,guess,,1,1,guess,
+4,196,49,target complex,2,it had to be one of the triangles so I had a 50/50 chance,guess,,guess,,1,1,guess,
+4,198,24,target complex,1,because it is red,guess,,guess,,1,1,guess,
+4,198,12,target simple,2,because its red,unclear,,guess,,0,1,guess,
+4,199,43,target complex,2,50/50 choice,guess,,guess,,1,1,guess,
+4,199,8,target simple,1,50/50 choice,guess,,guess,,1,1,guess,
+1,2,5,target complex,2,"Hes wearing the blue hat,so there's a 50% chance he's the one I should pick",guess,,guess,,1,1,guess,
+1,20,24,target complex,1,I chose it because it was one of the images that corresponded to a blue hat. I chose at random between this image and the fat green monster with the same hat.,guess,,guess,,1,1,guess,
+1,20,40,target simple,2,Same as before - two pictures corresponded to the blue hat and I just picked at random as I had no way of knowing for sure.,guess,,guess,,1,1,guess,
+4,201,26,target simple,2,random,guess,,guess,,1,1,guess,
+4,202,5,target complex,2,its red,guess,,guess,,1,1,guess,
+4,202,42,target simple,1,its a circle,guess,,guess,,1,1,guess,
+4,203,2,target complex,1,"Because it is green, 50/50 whether it was the green circle or green triangle",guess,,guess,,1,1,guess,
+4,205,57,target complex,2,It is a circle and the first one when reading left to right,guess,,guess,,1,1,guess,
+4,205,40,target simple,1,It is red and it is the first one when reading left to right,guess,,guess,,1,1,guess,
+4,206,43,target complex,1,There's a 50:50 chance to get it right,guess,,guess,,1,1,guess,
+4,211,49,target complex,1,"it had to be one of the triangles, i had a 50-50 chance of picking the one they intended",guess,,guess,,1,1,guess,
+4,211,28,target simple,2,it had to be one of the circles,guess,,guess,,1,1,guess,
+4,215,17,target complex,1,it is a circle,guess,,guess,,1,1,guess,
+4,217,5,target complex,2,It was red.,guess,,guess,,1,1,guess,
+4,217,40,target simple,1,It was red,guess,,guess,,1,1,guess,
+4,218,25,target complex,1,it is the first circle that matches the participants choice,guess,,guess,,1,1,guess,
+4,219,57,target complex,1,they picked a circle and they either choose green or red so I picked green.,guess,,guess,,1,1,guess,
+4,219,12,target simple,2,They tended to pick triangles. I did not see a pattern of squares chosen.,guess,,guess,,1,1,guess,
+4,220,2,target complex,2,Because it's one of the green options,guess,,guess,,1,1,guess,
+4,220,18,target simple,1,Because it's one of the red options,guess,,guess,,1,1,guess,
+4,222,24,target complex,2,it is red,guess,,guess,,1,1,guess,
+4,222,40,target simple,1,it was red,guess,,guess,,1,1,guess,
+4,223,57,target complex,2,Pure guess between a and b,guess,,guess,,1,1,guess,
+4,226,63,target complex,1,It's a triangle,guess,,guess,,1,1,guess,
+4,227,5,target complex,2,its a red shape,guess,,guess,,1,1,guess,
+4,227,33,target simple,1,its a triangle,guess,,guess,,1,1,guess,
+1,23,51,target complex,1,"Two of them are the same creature and just have different colored hats, I was just guessing",guess,,guess,,1,1,guess,
+1,23,36,target simple,2,Two of them were the same just wearing different hats,guess,,unclear,,0,1,guess,
+4,230,25,target complex,1,I had to choose randomly between the two images of circles.,guess,,guess,,1,1,guess,
+4,230,27,target simple,2,"Again, I had to choose randomly between the green images.",guess,,guess,,1,1,guess,
+4,231,43,target complex,1,circle and if there is one in the middle thats what ive been picking,guess,,guess,,1,1,guess,
+4,231,12,target simple,2,red and middle,guess,,guess,,1,1,guess,
+4,233,43,target complex,1,because my instinct told me to,guess,,guess,,1,1,guess,
+4,233,26,target simple,2,instinct,guess,,guess,,1,1,guess,
+4,235,5,target complex,2,there's a fifty-fifty chance of me being right since the participant said the colour within the shape is red,guess,,guess,,1,1,guess,
+4,235,33,target simple,1,the last participant said that it was a triangle shape and there are 2 options that are triangle shapes so I chose one of them since its a 50/50 chance of me being right,guess,,guess,,1,1,guess,
+4,237,25,target complex,2,it is a circle so 50% chance is right,guess,,guess,,1,1,guess,
+4,237,8,target simple,1,"it is a circle, so 50% chance it is right",guess,,guess,,1,1,guess,
+1,24,51,target complex,2,To be honest it was either the red or blue so was a random choice between the two. I didn't know if there was a way of working out which one as both creatures look the same.,guess,,guess,,1,1,guess,
+1,27,43,target complex,1,Because it's either this one or the same creature with blue hat.,unclear,,guess,,0,1,guess,
+1,28,63,target complex,2,He is the green creature and is on the right,guess,,guess,,1,1,guess,
+1,28,26,target simple,1,He has a red had and is on the right,guess,,guess,,1,1,guess,
+1,29,2,target complex,1,"50/50 of the two available. Most people probably are using a picture to show what they want you to pick, not what they don't want you to pick.",guess,,guess,,1,1,guess,
+1,29,28,target simple,2,"Same as before it's 50/50 of what I think people want me to choose, as I assume most are choosing what they do want me to select not what they don't. Obviously my assumption could be wrong.",guess,,guess,,1,1,guess,
+1,30,15,target complex,1,It was a 50/50 choice between the centre and right-hand images,guess,,guess,,1,1,guess,
+1,32,5,target complex,2,I had two choices the green monster with the blue hat or the purple one. I chose the green one since I chose the purple on the previous question.,guess,,guess,,1,1,guess,
+1,40,43,target complex,2,I just chose any picture with a purple creature,guess,,guess,,1,1,guess,
+1,42,26,target simple,1,I honestly have no clue it was either 1 out of the 2 red hats.,guess,,guess,,1,1,guess,
+1,48,15,target complex,1,It’s similar to the highlighted creature,guess,,unclear,,0,1,guess,
+1,48,42,target simple,2,It is close to the creature displayed,guess,,unclear,,0,1,guess,
+1,52,7,target complex,2,"Because the previous participant chose the green monster to send, both the right and left pictures apply. Since there is no way to tell which hat the monster had, it is a 50/50 between the left and the right.",guess,,guess,,1,1,guess,
+1,58,51,target complex,2,"guess between middle and right picture, rules out left picture",guess,,guess,,1,1,guess,
+1,59,15,target complex,1,It was a 50:50 guess between the first monster and thr middle one so i just chose the middle one,guess,,guess,,1,1,guess,
+2,62,25,target complex,1,"because  it is a robot, and just picked randomly between the two",guess,,guess,,1,1,guess,
+2,62,18,target simple,2,"again, it was something that is wearig a scarf and then picked randomly between the two",guess,,guess,,1,1,guess,
+2,71,57,target complex,1,It was a robot.,unclear,,unclear,,1,1,guess,
+2,71,36,target simple,2,It was a robot.,unclear,,unclear,,1,1,guess,
+2,74,2,target complex,2,Seemed right,unclear,,unclear,,1,1,guess,
+2,76,7,target complex,2,I guessed between the two green monsters,guess,,guess,,1,1,guess,
+2,77,7,target complex,2,"The picture is of a green creature, so the purple creature is out.  The choice was narrowed down, but ultimately I am guessing between the 2 green creatures",guess,,guess,,1,1,guess,
+2,83,49,target complex,2,"I figured the participant used scarf to  represent the green monster, because both the green monster and purple monster have red hats, so they couldn't use that image to represent it. Similarly, they chose the green monster image to represent it, it would be a 50/50 of getting it right.",unclear,,guess,,0,1,guess,
+2,89,25,target complex,2,dont know,guess,,unclear,,0,1,guess,
+1,9,25,target complex,1,Is the same monster in the image,guess,,unclear,,0,1,guess,
+2,91,25,target complex,2,I GUESSED,guess,,guess,,1,1,guess,
+2,93,17,target complex,1,The previous participant chose a robot so I chose one as well.,unclear,,unclear,,1,1,guess,
+2,94,17,target complex,1,I guessed which one of the robots it could be.,guess,,guess,,1,1,guess,
+2,94,42,target simple,2,I guessed which one of the robots it could be.,guess,,guess,,1,1,guess,
+2,96,24,target complex,2,"Both are wearing scarfs, impossible to know 100% what creature they intended to pick.",guess,,guess,,1,1,guess,
+2,97,36,target simple,1,It was random as there are two robots,guess,,guess,,1,1,guess,
+2,98,49,target complex,1,I randomly chose it because it contains the green monster,guess,,guess,,1,1,guess,
+1,10,57,target complex,1,"As the prev person did not choose the red hat image and could not choose robot as that wasn't an option ,so I thought it might be a signal that it was not the pink monster with the red hat and the robot instead.",correct_reasoning,,unclear,,0,1,unclear,
+2,100,63,target complex,2,Monster with no hat?,unclear,,other_reason,visual_resemblance,0,0,unclear,
+2,102,57,target complex,2,Only because there isn’t a robot with a scarf,unclear,,unclear,,1,1,unclear,
+2,102,30,target simple,1,This is because I feel this is the one that was suggested,unclear,,unclear,,1,1,unclear,
+2,104,17,target complex,2,the robot is facing same direction as the chosen one by previous participant,unclear,,other_reason,visual_resemblance,0,0,unclear,
+2,113,57,target complex,1,robot,unclear,,unclear,,1,1,unclear,
+2,113,18,target simple,2,scarf,unclear,,unclear,,1,1,unclear,
+3,119,43,target complex,2,Its similar to theone the participant picked,unclear,,unclear,,1,1,unclear,
+1,12,36,target simple,1,because he has no cap and he is not green,correct_reasoning,,other_reason,visual_resemblance,0,0,unclear,
+3,120,15,target complex,2,blue hat,unclear,,unclear,,1,1,unclear,
+3,120,30,target simple,1,scarf,unclear,,unclear,,1,1,unclear,
+3,123,15,target complex,1,Because its the same green image and there's no other option available,unclear,,unclear,,1,1,unclear,
+3,140,17,target complex,2,red hat,unclear,,unclear,,1,1,unclear,
+3,145,28,target simple,2,no cap,unclear,,other_reason,visual_resemblance,0,0,unclear,
+3,148,8,target simple,2,The monster is the same as in the clue that the previous participant gave.,unclear,,unclear,,1,1,unclear,
+3,149,42,target simple,1,"It matches what the previous participant i think would want me to pick ,",unclear,,unclear,,1,1,unclear,
+3,153,2,target complex,2,red cap,unclear,,unclear,,1,1,unclear,
+3,153,36,target simple,1,it looks similar to the previous participant,other_reason,visual_resemblance,unclear,,0,0,unclear,
+3,156,15,target complex,1,green monster,unclear,,unclear,,1,1,unclear,
+3,157,18,target simple,1,Because of the blue hat,unclear,,unclear,,1,1,unclear,
+3,158,59,target simple,2,because the creature can be differentiated by not having a hat,unclear,,other_reason,odd_one_out,0,0,unclear,
+3,164,49,target complex,2,The hat is blue,unclear,,unclear,,1,1,unclear,
+3,166,49,target complex,2,Closest to what was said,unclear,,unclear,,1,1,unclear,
+3,173,59,target simple,1,because it is wearing an accessory,unclear,,unclear,,1,1,unclear,
+3,177,18,target simple,1,Because of the blue hat,unclear,,unclear,,1,1,unclear,
+4,182,7,target complex,2,it was the only one that fitted,unclear,,unclear,,1,1,unclear,
+4,182,33,target simple,1,it is the appropriate colour and shape,unclear,,guess,,0,1,unclear,
+4,191,26,target simple,1,As it is a green triangle which was presented to the previous participant,unclear,,guess,,0,1,unclear,
+4,201,63,target complex,1,im not sure,guess,,unclear,,0,1,unclear,
+4,208,49,target complex,1,Opposite the other green object and kinda just on instinct,guess,,other_reason,other,0,0,unclear,
+4,214,5,target complex,1,"Its red but so is triangle, but the circle is blue",unclear,,unclear,,1,1,unclear,
+4,218,12,target simple,2,i could choose red triangle or square so i choose the one i think they would choose first,guess,,other_reason,preference,0,0,unclear,
+1,22,63,target complex,1,"Because if the player had chosen a blue hot, I would have chosen the robot. So I assumed that although the player could have chosen the red hat, that they wanted me to chose the more central monster not wearing a blue hat.",unclear,,guess,,0,1,unclear,
+4,221,15,target complex,1,Green because it is a triangle.,unclear,,guess,,0,1,unclear,
+4,232,15,target complex,2,Because they chose the shape rather than the colour since there are 2 shapes the same to choose from,correct_reasoning,,unclear,,0,1,unclear,
+1,27,42,target simple,2,"He clearly wanted me to pick this, no hat.",unclear,,other_reason,visual_resemblance,0,0,unclear,
+1,31,30,target simple,2,The creature had no hat,unclear,,unclear,,1,1,unclear,
+1,35,18,target simple,1,Because it hasn't be show on the top before.,guess,,unclear,,0,1,unclear,
+1,47,49,target complex,2,The creature is identical to the one on the block.,guess,,unclear,,0,1,unclear,
+1,47,33,target simple,1,the creature looks like the one on the block.,guess,,unclear,,0,1,unclear,
+1,51,42,target simple,2,Looks identical.,other_reason,visual_resemblance,unclear,,0,0,unclear,
+1,55,2,target complex,1,because of the red cap on the monster's head,unclear,,other_reason,visual resemblance,0,0,unclear,
+1,58,59,target simple,1,looks closest to the participants picture,unclear,,unclear,,1,1,unclear,
+2,64,43,target complex,1,It didn't have a scarf,unclear,,other_reason,visual_resemblance,0,0,unclear,
+2,66,2,target complex,1,The prewvoius image ahd a robot in red hat,unclear,,guess,,0,1,unclear,
+2,68,17,target complex,1,the previous participants choice is similar.,other_reason,visual_resemblance,unclear,,0,0,unclear,
+2,74,28,target simple,1,Seemed most appropriate,unclear,,unclear,,1,1,unclear,
+1,8,49,target complex,1,"because two images have a red hat, but this is the monster with the red hat",correct_reasoning,,other_reason,other,0,0,unclear,
+1,8,36,target simple,2,because its exactly the right picture,unclear,,unclear,,1,1,unclear,
+2,84,57,target complex,1,If it was the one with the red hat the previous patricipant would have chosen the red hat,unclear,,unclear,,1,1,unclear,
+2,87,24,target complex,2,I tried to imagine what the previous participant would choose,unclear,,unclear,,1,1,unclear,
+2,88,49,target complex,1,best suits everything,unclear,,unclear,,1,1,unclear,
+2,88,18,target simple,2,best suits everything,unclear,,unclear,,1,1,unclear,
+2,89,36,target simple,1,not sure,unclear,,unclear,,1,1,unclear,
+2,92,24,target complex,1,because of the scarf.,unclear,,unclear,,1,1,unclear,
+2,92,33,target simple,2,because of the green monster and because it has no scarf.,unclear,,other_reason,visual_resemblance,0,0,unclear,
+2,99,33,target simple,1,It was a green monster not wearing a scarf.,unclear,,other_reason,visual_resemblance,0,0,unclear,
