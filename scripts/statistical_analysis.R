@@ -5,7 +5,7 @@ library('brms')
 
 source('stat_helpers.R')
 
-df_allexps <- read.csv('../data/all_exps_anonymized.csv')
+df_allexps <- read.csv('../data/all_experiments.csv')
 
 condition_helmert_matrix <- matrix(c(2/3,-1/3,-1/3,0,1/2,-1/2),nrow=3)
 targetpos_dummy_matrix <- matrix(c(0,1,0,0,0,1),nrow=3)
