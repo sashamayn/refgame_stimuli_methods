@@ -10,3 +10,5 @@ Statistical analysis scripts written in R can be found in the scripts/ folder.
 - annotations_plot.R generates barplots of annotations (Figures 3 and 8 in the paper).
 - lpa.R contains Latent Profile Analysis models for Experiments 1 and 4 and generates Figure 9 in the paper.
 - stat_helpers.R is a file with helper functions (for outlier removal etc.) used by the other scripts.
+
+The folder scripts/RData/ contains preprocessed data (dfs_for_logregr.RData) that can be used to run the brms models to obtain the numbers reported in the paper in Table 1. If you run the statistical_analysis.R script anew, the numbers may differ slightly because of the randomization of the ambiguous condition (see the paper for more details). 
