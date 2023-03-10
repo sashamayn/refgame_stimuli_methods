@@ -46,7 +46,7 @@ experiment,participantid,itemid,itemtype,strategy_seen,strategy_text,tag_ann1,su
 4,216,2,target complex,2,I think they meant to indicate the green circle by clicking on the green paint otherwise they could have just clicked onthe circle,other_reason,other,other_reason,other,1,1,other_reason,other
 4,234,25,target complex,1,because there were 2 red,unclear,,other_reason,other,0,0,other_reason,other
 1,37,5,target complex,2,I won't try fall for the same trick twice. The opponent would clearly try confuse me in either option,other_reason,other,unclear,,0,0,other_reason,other
-1,37,12,target simple,1,The cap was in the reverse position and I thought the opponent would try to confuse me,other_reason,other,other_reason,visual resemblance,1,0,other_reason,other
+1,37,12,target simple,1,The cap was in the reverse position and I thought the opponent would try to confuse me,other_reason,other,other_reason,visual_resemblance,1,0,other_reason,other
 1,43,51,target complex,2,"red hat could have been an option. there are no robots to choose from, which would have been easy.so no red hat, but yes monster",unclear,,other_reason,other,0,0,other_reason,other
 1,53,17,target complex,2,The didn't pick a hat colour so I assumed they wanted me to pick the monster with a hat in common with another creature,correct_reasoning,,other_reason,salience,0,0,other_reason,other
 1,57,63,target complex,2,i think they wouldve picked the blue hat,unclear,,other_reason,other,0,0,other_reason,other
@@ -65,11 +65,11 @@ experiment,participantid,itemid,itemtype,strategy_seen,strategy_text,tag_ann1,su
 1,49,30,target simple,1,the image stands out from the rest because of the scarf.,other_reason,salience,other_reason,salience,1,1,other_reason,salience
 2,66,36,target simple,2,The scarf stands out as prominent,other_reason,salience,other_reason,salience,1,1,other_reason,salience
 2,80,7,target complex,2,"because at first glance, it is the green monster, the red hat guided my eyes to that figure over the figure on the left with the scarf",other_reason,salience,other_reason,salience,1,1,other_reason,salience
-1,31,2,target complex,1,It had a red cap facing right,other_reason,visual_resemblance,other_reason,visual resemblance,1,1,other_reason,visual_resemblance
-1,33,18,target simple,1,the cap is facing the same direction,other_reason,visual_resemblance,other_reason,visual resemblance,1,1,other_reason,visual_resemblance
-1,38,5,target complex,1,The direction of the cap influenced my decision,other_reason,visual_resemblance,other_reason,visual resemblance,1,1,other_reason,visual_resemblance
-1,40,42,target simple,1,Because the previous participant has the purple creature with green hair,other_reason,visual_resemblance,other_reason,visual resemblance,1,1,other_reason,visual_resemblance
-1,46,8,target simple,1,because you can see the eyes,other_reason,visual_resemblance,other_reason,visual resemblance,1,1,other_reason,visual_resemblance
+1,31,2,target complex,1,It had a red cap facing right,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+1,33,18,target simple,1,the cap is facing the same direction,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+1,38,5,target complex,1,The direction of the cap influenced my decision,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+1,40,42,target simple,1,Because the previous participant has the purple creature with green hair,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
+1,46,8,target simple,1,because you can see the eyes,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
 3,119,30,target simple,1,it is the closest to the one the participant picked,other_reason,visual_resemblance,unclear,,0,0,other_reason,visual_resemblance
 3,123,42,target simple,2,The previous participant's image is the same aside from the fact that my chosen image is wearing a Scaff but its head is exposed,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
 3,125,28,target simple,2,same image no hat,unclear,,other_reason,visual_resemblance,0,0,other_reason,visual_resemblance
@@ -103,7 +103,7 @@ experiment,participantid,itemid,itemtype,strategy_seen,strategy_text,tag_ann1,su
 4,207,59,target simple,1,Its round and the colour is nearest to clear,other_reason,preference,other_reason,salience,1,0,other_reason,visual_resemblance
 1,26,8,target simple,2,Matches better to the previous participant than the red hat,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
 1,3,28,target simple,2,Wanted me to pick monster but without a hat. This is closest.,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
-1,36,30,target simple,1,"Whilst there was 2 options (and the previous participant had the chance to distinguish each image), this one had no hat which is more distinctive even if wearing a scarf",other_reason,salience,other_reason,visual resemblance,1,0,other_reason,visual_resemblance
+1,36,30,target simple,1,"Whilst there was 2 options (and the previous participant had the chance to distinguish each image), this one had no hat which is more distinctive even if wearing a scarf",other_reason,salience,other_reason,visual_resemblance,1,0,other_reason,visual_resemblance
 1,4,42,target simple,2,Because it is a pink monster however it is not wearing a red hat,unclear,,other_reason,visual_resemblance,0,0,other_reason,visual_resemblance
 2,63,27,target simple,2,hat position,other_reason,visual_resemblance,other_reason,visual_resemblance,1,1,other_reason,visual_resemblance
 2,68,12,target simple,2,the scarf is the same,other_reason,visual_resemblance,unclear,,0,0,other_reason,visual_resemblance
@@ -461,7 +461,7 @@ But the reason i would have chosen the blue cap monster is because if the previo
 1,47,49,target complex,2,The creature is identical to the one on the block.,guess,,unclear,,0,1,unclear,
 1,47,33,target simple,1,the creature looks like the one on the block.,guess,,unclear,,0,1,unclear,
 1,51,42,target simple,2,Looks identical.,other_reason,visual_resemblance,unclear,,0,0,unclear,
-1,55,2,target complex,1,because of the red cap on the monster's head,unclear,,other_reason,visual resemblance,0,0,unclear,
+1,55,2,target complex,1,because of the red cap on the monster's head,unclear,,other_reason,visual_resemblance,0,0,unclear,
 1,58,59,target simple,1,looks closest to the participants picture,unclear,,unclear,,1,1,unclear,
 2,64,43,target complex,1,It didn't have a scarf,unclear,,other_reason,visual_resemblance,0,0,unclear,
 2,66,2,target complex,1,The prewvoius image ahd a robot in red hat,unclear,,guess,,0,1,unclear,
