@@ -47,6 +47,13 @@ anns_complex <- subset(annotations, itemtype=='target complex')
 data1$ann_complex <- as.factor(anns_complex$tag_both[match(data1$participantid,anns_complex$participantid)])
 data4$ann_complex <- as.factor(anns_complex$tag_both[match(data4$participantid,anns_complex$participantid)])
 
+
+colnames(data1)[8] <- 'annotation (simple condition)'
+colnames(data1)[9] <- 'annotation (complex condition)'
+
+colnames(data4)[8] <- 'annotation (simple condition)'
+colnames(data4)[9] <- 'annotation (complex condition)'
+
 data1$`reasoning type` <- NA
 data1$`reasoning type`[data1$Class==1] <- 'L0'
 data1$`reasoning type`[data1$Class==2] <- 'L2'
@@ -59,39 +66,62 @@ data4$`reasoning type`[data4$Class==2] <- 'L2'
 data4$`reasoning type`[data4$Class==3] <- 'below_chance'
 data4$`reasoning type`[data4$Class==4] <- 'L0'
 
-# circle -- correct reasoning
-# triangle -- guess
-# rhombus -- misunderstood_instr
-# square (or plus maybe so that it stands out more?) -- other_reason
 
-lpa_exp1_simple <- ggplot(data=subset(data1, data1$ann_simple!='unclear' & data1$ann_simple!='exclude'), 
-  aes(x=`target simple` ,y=`target complex`, shape = ann_simple, color=`reasoning type`)) + 
-  geom_point(size=8, position='jitter') + xlim(-0.1,1.1) +ylim(-0.1,1.1) +
-  xlab('simple: prop correct') + ylab('complex: prop correct') + 
+lpa_exp1_simple <- ggplot(data=subset(data1, data1$`annotation (simple condition)`!='unclear' & data1$`annotation (simple condition)`!='exclude'), 
+  aes(x=`target simple` ,y=`target complex`, shape = `annotation (simple condition)`, color=`reasoning type`)) + 
+  geom_point(size=12, position='jitter') + xlim(-0.1,1.1) +ylim(-0.1,1.1) +
+  xlab('simple: proportion correct') + ylab('complex: proportion correct') + 
   scale_shape_manual(values=c(19,17,18,15)) +
-  theme(text = element_text(size = 15)) + scale_size_area(max_size = 28) 
+  theme(text = element_text(size = 36)) + scale_size_area(max_size = 56) +
+  guides(
+    color = guide_legend(order = 2),
+    shape = guide_legend(order = 1)
+  )
 
-lpa_exp4_simple <- ggplot(data=subset(data4, data4$ann_simple!='unclear' & data4$ann_simple!='exclude'), 
-  aes(x=`target simple` ,y=`target complex`, shape = ann_simple, color=`reasoning type`)) + 
-  geom_point(size=8, position='jitter') + xlim(-0.1,1.1) +ylim(-0.1,1.1) +
-  xlab('simple: prop correct') + ylab('complex: prop correct') + 
+lpa_exp4_simple <- ggplot(data=subset(data4, data4$`annotation (simple condition)`!='unclear' & data4$`annotation (simple condition)`!='exclude'), 
+  aes(x=`target simple` ,y=`target complex`, shape = `annotation (simple condition)`, color=`reasoning type`)) + 
+  geom_point(size=12, position='jitter') + xlim(-0.1,1.1) +ylim(-0.1,1.1) +
+  xlab('simple: proportion correct') + ylab('complex: proportion correct') + 
   scale_shape_manual(values=c(19,17,18,15)) +
-  theme(text = element_text(size = 15)) + scale_size_area(max_size = 28) 
+  theme(text = element_text(size = 36)) + scale_size_area(max_size = 56) +
+  guides(
+    color = guide_legend(order = 2),
+    shape = guide_legend(order = 1)
+  )
 
-#Figure 4 in the paper
-both_lpas <-ggarrange(lpa_exp1_simple, lpa_exp4_simple, ncol = 1, nrow = 2)
+#Figure 7 in the paper
+both_lpas_simple <-ggarrange(lpa_exp1_simple, lpa_exp4_simple, ncol = 1, nrow = 2)
 
-lpa_exp1_complex <- ggplot(data=subset(data1, data1$ann_complex!='unclear' & data1$ann_complex!='exclude'), 
-                          aes(x=`target simple` ,y=`target complex`, shape = ann_complex, color=`reasoning type`)) + 
-  geom_point(size=8, position='jitter') + xlim(-0.1,1.1) +ylim(-0.1,1.1) +
-  xlab('simple: prop correct') + ylab('complex: prop correct') + 
+#png("figure7.png", width=1900, height = 1700)
+#both_lpas_simple
+#dev.off()
+
+lpa_exp1_complex <- ggplot(data=subset(data1, data1$`annotation (complex condition)`!='unclear' & data1$`annotation (complex condition)`!='exclude'), 
+                          aes(x=`target simple` ,y=`target complex`, shape = `annotation (complex condition)`, color=`reasoning type`)) + 
+  geom_point(size=12, position='jitter') + xlim(-0.1,1.1) +ylim(-0.1,1.1) +
+  xlab('simple: proportion correct') + ylab('complex: proportion correct') + 
   scale_shape_manual(values=c(19,17,15)) +
-  theme(text = element_text(size = 15)) + scale_size_area(max_size = 28) 
+  theme(text = element_text(size = 36)) + scale_size_area(max_size = 56) +
+  guides(
+    color = guide_legend(order = 2),
+    shape = guide_legend(order = 1)
+  )
 
-lpa_exp4_complex <- ggplot(data=subset(data4, data4$ann_complex!='unclear' & data4$ann_complex!='exclude'), 
-                          aes(x=`target simple` ,y=`target complex`, shape = ann_complex, color=`reasoning type`)) + 
-  geom_point(size=8, position='jitter') + xlim(-0.1,1.1) +ylim(-0.1,1.1) +
-  xlab('simple: prop correct') + ylab('complex: prop correct') + 
+lpa_exp4_complex <- ggplot(data=subset(data4, data4$`annotation (complex condition)`!='unclear' & data4$`annotation (complex condition)`!='exclude'), 
+                          aes(x=`target simple` ,y=`target complex`, shape = `annotation (complex condition)`, color=`reasoning type`)) + 
+  geom_point(size=12, position='jitter') + xlim(-0.1,1.1) +ylim(-0.1,1.1) +
+  xlab('simple: proportion correct') + ylab('complex: proportion correct') + 
   scale_shape_manual(values=c(19,17,18,15)) +
-  theme(text = element_text(size = 15)) + scale_size_area(max_size = 28) 
+  theme(text = element_text(size = 36)) + scale_size_area(max_size = 56) +
+  guides(
+    color = guide_legend(order = 2),
+    shape = guide_legend(order = 1)
+  )
+
+#Figure 10 in the paper
+both_lpas_complex <- ggarrange(lpa_exp1_complex, lpa_exp4_complex, ncol = 1, nrow = 2)
+
+#png("figure10.png", width=1900, height = 1700)
+#both_lpas_complex
+#dev.off()
 
